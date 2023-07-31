@@ -6,3 +6,4 @@ Operadores Lógicos
 ! -> NOT -> NÃO -> Nega uma expressão. Se verdadeira, retorna false. Se falsa, retorna true
 */
 
+commit
