@@ -6,4 +6,18 @@ Operadores Lógicos
 ! -> NOT -> NÃO -> Nega uma expressão. Se verdadeira, retorna false. Se falsa, retorna true
 */
 
-commit
+dinheiro = false
+sol = true
+roupa = true
+
+// AND
+const sair = dinheiro && sol && roupa
+console.log(`Posso sair? ${sair}`)
+
+// OR
+const sair2 = dinheiro || sol || roupa
+console.log(`Posso sair? ${sair2}`)
+
+// NOT
+const sair3 = !dinheiro
+console.log(`Posso sair? ${sair3}`)
