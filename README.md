@@ -7,10 +7,10 @@
  <br> • Avaliação Short-Circuit ✅ 
  <br> • If, Else if e else 1/2 ✅ 
  <br> • If, Else if e else 2/2 ✅ 
- <br> • Operação ternária
- <br> • Objeto Date
- <br> • Switch/Case
- <br> • DiferençAs entre var/let/const
+ <br> • Operação ternária ✅ 
+ <br> • Objeto Date ✅ 
+ <br> • Switch/Case ✅ 
+ <br> • Diferenças entre var/let/const
  <br> • Atribuição via desestruturação (Arrays)
  <br> • Atribuição via desestruturação (Objetos)
  <br> • For - Clássico - Estrurura de repetição
