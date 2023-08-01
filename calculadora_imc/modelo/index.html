@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Calculadora IMC</title>
+  <link rel="stylesheet" href="./assets/css/style.css">
+</head>
+
+<body>
+
+  <section class="container">
+    <h1>Calcule o seu IMC</h1>
+    <p>
+      <b>IMC</b><br>
+      Menos do que 18.5 - Abaixo do peso<br>
+      Entre 18.5 e 25 - Peso ideal<br>
+      Entre 25 e 30 - Sobrepeso<br>
+      Entre 30 e 35 - Obesidade<br>
+      Acima de 35 - Obesidade mórbida
+    </p>
+    <form onsubmit="return calcimc()">
+      <label for="input-test-1">Peso</label>
+      <input type="text" placeholder="90" id="peso">
+      <label for="input-test-2">Altura</label>
+      <input type="text" placeholder="1.90" id="altura">
+      <button type="submit">Enviar</button>
+      <div id="resultado"></div>
+    </form>
+  </section>
+
+  <script src="./assets/js/main.js"></script>
+</body>
+
+</html>
