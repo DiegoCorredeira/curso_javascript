@@ -11,7 +11,7 @@
  <br> • Objeto Date ✅ 
  <br> • Switch/Case ✅ 
  <br> • Diferenças entre var/let/const ✅ 
- <br> • Atribuição via desestruturação (Arrays)
+ <br> • Atribuição via desestruturação (Arrays) ✅
  <br> • Atribuição via desestruturação (Objetos)
  <br> • For - Clássico - Estrurura de repetição
  <br> • For in - Estrutura de repetição
