@@ -14,9 +14,9 @@
  <br> • Atribuição via desestruturação (Arrays) ✅
  <br> • Atribuição via desestruturação (Objetos) ✅
  <br> • For - Clássico - Estrurura de repetição ✅
- <br> • For in - Estrutura de repetição
- <br> • For of - Estrutura de repetição
- <br> • While e Do While - Estrutura repetição
+ <br> • For in - Estrutura de repetição ✅
+ <br> • For of - Estrutura de repetição ✅
+ <br> • While e Do While - Estrutura repetição 
  <br> • Break e Continue
  <br> • Tratando e lançando erros (try, catch, throw)
  <br> • Tratando e lançando erros (try, catch, finally)
