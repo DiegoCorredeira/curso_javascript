@@ -20,4 +20,3 @@ button.addEventListener("click", () => {
     result.innerHTML = "Insira um número inteiro";
   }
 });
-
